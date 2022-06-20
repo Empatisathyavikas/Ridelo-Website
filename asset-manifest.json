@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fbddfac.css",
+    "main.js": "/static/js/main.b91d1cf9.js",
+    "static/js/787.0cd2646d.chunk.js": "/static/js/787.0cd2646d.chunk.js",
+    "static/media/Uber.jpg": "/static/media/Uber.0adae2e26eaea75b2e5d.jpg",
+    "static/media/Meru.jpg": "/static/media/Meru.743e3d27e37d83f228d1.jpg",
+    "static/media/Ola.jpg": "/static/media/Ola.cc740726b9c6180a6ef1.jpg",
+    "static/media/HurlLogo1.png": "/static/media/HurlLogo1.c3c3ef90f0dbc39ed589.png",
+    "index.html": "/index.html",
+    "main.5fbddfac.css.map": "/static/css/main.5fbddfac.css.map",
+    "main.b91d1cf9.js.map": "/static/js/main.b91d1cf9.js.map",
+    "787.0cd2646d.chunk.js.map": "/static/js/787.0cd2646d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fbddfac.css",
+    "static/js/main.b91d1cf9.js"
+  ]
+}
